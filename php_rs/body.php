@@ -38,21 +38,13 @@
                     </div>
                 </li>
                 <li>
-                    <div class="banner1">
+                    <div class="banner3">
                         <div class="container">
                             <div class="banner-info">
                             </div>
                         </div>
                     </div>
                 </li> 
-                <li>
-                    <div class="banner2">
-                        <div class="container">
-                            <div class="banner-info2 text-center">
-                            </div>
-                        </div>
-                    </div>
-                </li>
             </ul>
         </div>
         <div class="clearfix"></div>
@@ -128,19 +120,19 @@
                     <ul class="rslides" id="slider4">
                         <li>
                             <div class="ser-bottom">
-                                <h5>Dengan adanya E-Hospital semua urusan rumah sakit jadi mudah dan transparan</h5>
+                                <h5>Dengan adanya RS. Medika Lestari semua urusan rumah sakit jadi mudah dan transparan</h5>
                                 <p>- Ananda Selvi</p>
                             </div>
                         </li>
                         <li>
                             <div class="ser-bottom">
-                                <h5>Obat - obatan di E-Hospital sangat terjangkau</h5>
+                                <h5>Obat - obatan di RS. Medika Lestari sangat terjangkau</h5>
                                 <p>- Rafi ahmad</p>
                             </div>
                         </li>
                         <li>
                             <div class="ser-bottom">
-                                <h5>E-Hospital sesuatu sekali untuk memudah kan urusan rumah sakit</h5>
+                                <h5>RS. Medika Lestari sesuatu sekali untuk memudah kan urusan rumah sakit</h5>
                                 <p>- Sharini</p>
                             </div>
                         </li>
@@ -150,24 +142,24 @@
             </div>
             <div class="col-md-8 services_right ">
                 <div class="list-left text-center wow bounceInDown" data-wow-duration="1.5s" data-wow-delay="0.1s">
-                    <span class="glyphicon glyphicon-plus" aria-hidden="true"></span>
-                    <h4>Spesialis anak</h4>
+                    <span class="glyphicon glyphicon-star-empty" aria-hidden="true"></span>
+                    <h4>Spesialis Anak</h4>
                     <p>Mengobati secara mendetail tentang penyakit anak</p>
                 </div>
                 <div class="list-left text-center wow bounceInDown" data-wow-duration="1.5s" data-wow-delay="0.2s">
                     <span class="glyphicon glyphicon-scissors" aria-hidden="true"></span>
-                    <h4>THT</h4>
+                    <h4>Spesialis Bedah</h4>
                     <p>Mengobati organ  -  organ indra</p>
                 </div>
                 <div class="list-left text-center no_marg wow bounceInDown" data-wow-duration="1.5s" data-wow-delay="0.3s">
-                    <span class="glyphicon glyphicon-apple" aria-hidden="true"></span>
-                    <h4>Konsultasi</h4>
-                    <p>Konsultasi bagi pasien dan ibu hamil</p>
+                    <span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span>
+                    <h4>Spesialis Mata</h4>
+                    <p>Mengobati penglihatan</p>
                 </div>
                 <div class="list-left text-center no_marg wow bounceInDown" data-wow-duration="1.5s" data-wow-delay="0.4s">
-                    <span class="glyphicon glyphicon-education" aria-hidden="true"></span>
-                    <h4>Apotik</h4>
-                    <p>Menyediakan obat - obat generic dan paten</p>
+                    <span class="glyphicon glyphicon-heart" aria-hidden="true"></span>
+                    <h4>Spesialis Kandungan</h4>
+                    <p>Menangani perawatan organ reproduksi wanita</p>
                 </div>
                 <div class="clearfix"></div>
             </div>
@@ -178,7 +170,7 @@
     <!-- team -->
     <div class="ind-team">
         <div class="container">
-            <h3>Team Dokter E-Hospital</h3>
+            <h3>Team Dokter RS. Medika Lestari</h3>
             <div class="col-md-4 ind-gds text-center wow zoomIn" data-wow-duration="1.5s" data-wow-delay="0.1s">
                 <div class="team-img">
                     <img class="img-responsive" src="images/pic4.jpg" alt=" "/>
