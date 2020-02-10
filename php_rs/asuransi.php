@@ -16,7 +16,7 @@
 				</div>
 		</div>	
         <div class="col-md-6 about_img wow fadeInRight animated" data-wow-delay=".5s">
-				<img src="images/g1.jpg" alt="" class="about_img_right">
+				<img src="images/bpjs.jpg" alt="" class="about_img_right">
             </div>	
 	</div>
 	<div class="container">

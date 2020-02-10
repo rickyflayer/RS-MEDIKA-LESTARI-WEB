@@ -9,7 +9,7 @@
 	<div class="container">
 		<h3 class="tittle wow fadeInDown animated" data-wow-delay=".5s">Profile</h3>
             <div class="col-md-6 about_img wow fadeInLeft animated" data-wow-delay=".5s">
-				<img src="images/g1.jpg" alt="">
+				<img src="images/profil.jpg" alt="">
             </div>
 			<div class="col-md-6 about_img about_img_right">
 				<div class="choose-grid wow fadeInRight animated" data-wow-delay=".5s">

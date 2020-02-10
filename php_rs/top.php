@@ -180,11 +180,11 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                                       <li class="menu__item"><a href="specialis.html" class="menu__link">Specialis</a></li> 
                                       <li class="menu__item"><a href="fasilitas.html" class="menu__link">Fasilitas & Layanan</a></li> 
                                       <li class="menu__item"><a href="jadwal.html" class="menu__link">Jadwal Praktik</a></li> 
-                                      <li class="menu__item"><a href="asuransi.html" class="menu__link">Asuransi</a></li>
-                                      <li class="menu__item"><a href="profil.html" class="menu__link">Profil</a></li>
-                                      <li class="menu__item"><a href="indikator.html" class="menu__link">Indikator Mutu</a></li>
-                                      <li class="menu__item"><a href="ppi.html" class="menu__link">PPI</a></li>
-                                      <li class="menu__item"><a href="karir.html" class="menu__link">Karir</a></li>
+                                      <li class="menu__item"><a href="asuransi.php" class="menu__link">Asuransi</a></li>
+                                      <li class="menu__item"><a href="about.php" class="menu__link">Profil</a></li>
+                                      <li class="menu__item"><a href="indikator.php" class="menu__link">Indikator Mutu</a></li>
+                                      <li class="menu__item"><a href="ppi.php" class="menu__link">PPI</a></li>
+                                      <li class="menu__item"><a href="karir.php" class="menu__link">Karir</a></li>
 								<?php }?>
                             </ul>
                         </nav>

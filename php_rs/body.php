@@ -96,7 +96,7 @@
             <div class="col-md-4 services_left wow bounceInDown" data-wow-duration="1.5s" data-wow-delay="0s">
                 <h3>Pelayanan Kami</h3>
                 <p class="ser-para" >Menciptakan pelayan yang baik dan nyaman ,serta memberikan linkungan yang nyaman bagi pasien</p>
-                <a href="about.html" class="hvr-outline-out button2">See More About Us</a>
+                <a href="about.php" class="hvr-outline-out button2">See More About Us</a>
                 <script>
                     // You can also use "$(window).load(function() {"
                     $(function () {
@@ -170,54 +170,48 @@
     <!-- team -->
     <div class="ind-team">
         <div class="container">
-            <h3>Team Dokter RS. Medika Lestari</h3>
+            <h3>Team Dokter Rs. Medika Lestari</h3>
             <div class="col-md-4 ind-gds text-center wow zoomIn" data-wow-duration="1.5s" data-wow-delay="0.1s">
                 <div class="team-img">
-                    <img class="img-responsive" src="images/pic4.jpg" alt=" "/>
+                    <img class="img-responsive" src="images/dranak.png" alt=" "/>
                     <div class="team-info">
                         <ul>
                             <li class="hvr-rectangle-out"><a class="eco1" href="#"></a></li>
                             <li class="hvr-rectangle-out"><a class="eco2" href="#"></a></li>
                             <li class="hvr-rectangle-out"><a class="eco3" href="#"></a></li>
-                            <li class="hvr-rectangle-out"><a class="eco4" href="#"></a></li>
-                            <li class="hvr-rectangle-out"><a class="eco5" href="#"></a></li>
                         </ul>
                     </div>
                 </div>
-                <h4>Dr. Federica</h4>
+                <h4>Dr.Khumaedi,SpA</h4>
                 <p>Spesialis Anak</p>
             </div>
             <div class="col-md-4 ind-gds text-center wow zoomIn" data-wow-duration="1.5s" data-wow-delay="0.1s">
                 <div class="team-img">
-                    <img class="img-responsive" src="images/pic5.jpg" alt=" "/>
+                    <img class="img-responsive" src="images/drkandung.png" alt=" "/>
                     <div class="team-info">
                         <ul>
                             <li class="hvr-rectangle-out"><a class="eco1" href="#"></a></li>
                             <li class="hvr-rectangle-out"><a class="eco2" href="#"></a></li>
                             <li class="hvr-rectangle-out"><a class="eco3" href="#"></a></li>
-                            <li class="hvr-rectangle-out"><a class="eco4" href="#"></a></li>
-                            <li class="hvr-rectangle-out"><a class="eco5" href="#"></a></li>
                         </ul>
                     </div>
                 </div>
-                <h4>Dr. Thompson</h4>
-                <p>THT</p>
+                <h4>Dr.Erwandi,SpOG</h4>
+                <p>Spesialis Kandungan</p>
 
             </div>
             <div class="col-md-4 ind-gds text-center wow zoomIn" data-wow-duration="1.5s" data-wow-delay="0.1s">
                 <div class="team-img">
-                    <img class="img-responsive" src="images/pic6.jpg" alt=" "/>
+                    <img class="img-responsive" src="images/drgigi.png" alt=" "/>
                     <div class="team-info">
                         <ul>
                             <li class="hvr-rectangle-out"><a class="eco1" href="#"></a></li>
                             <li class="hvr-rectangle-out"><a class="eco2" href="#"></a></li>
                             <li class="hvr-rectangle-out"><a class="eco3" href="#"></a></li>
-                            <li class="hvr-rectangle-out"><a class="eco4" href="#"></a></li>
-                            <li class="hvr-rectangle-out"><a class="eco5" href="#"></a></li>
                         </ul>
                     </div>
                 </div>
-                <h4>Dr. Victoria</h4>
+                <h4>Drg.Syafliaroza</h4>
                 <p>Dokter gigi</p>
             </div>
 
