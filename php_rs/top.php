@@ -177,8 +177,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 								<li class="menu__item menu__item--current"><a href="view_transaksi.php" class="menu__link">Repot Transaksi</a></li>
                                 <?php }else{ ?>
 								      <li class="menu__item"><a href="index.php" class="menu__link">Home</a></li>
-                                      <li class="menu__item"><a href="specialis.html" class="menu__link">Specialis</a></li> 
-                                      <li class="menu__item"><a href="fasilitas.html" class="menu__link">Fasilitas & Layanan</a></li> 
+                                      <li class="menu__item"><a href="spesialis.php" class="menu__link">Specialis</a></li> 
+                                      <li class="menu__item"><a href="fasilitas.php" class="menu__link">Fasilitas & Layanan</a></li> 
                                       <li class="menu__item"><a href="jadwal.html" class="menu__link">Jadwal Praktik</a></li> 
                                       <li class="menu__item"><a href="asuransi.php" class="menu__link">Asuransi</a></li>
                                       <li class="menu__item"><a href="about.php" class="menu__link">Profil</a></li>
