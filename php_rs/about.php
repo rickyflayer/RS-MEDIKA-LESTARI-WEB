@@ -13,12 +13,8 @@
             </div>
 			<div class="col-md-6 about_img about_img_right">
 				<div class="choose-grid wow fadeInRight animated" data-wow-delay=".5s">
-					<h4>Sejarah Rs. Medika Lestari</h4>
+					<h4>Sejarah & Tujuan Rs. Medika Lestari</h4>
 					<p>	Rumah Sakit Medika Lestari berdiri tanggal 15 oktober 1994, berawal dari sebuah klinik yang bertempat di Jl. HOS Cokroaminoto Perum Pondok Lestari Blok C1 No.1-2, Jl. HOS Cokroaminoto, Ciledug Kota Tanggerang 15157. Medika Lestari hadir untuk memenuhi permintaan masyarakat akan kesehatan yang baik dan prima. Pada tahun 1997 Klinik Medika Lestari membangun gedung baru dan meningkatkan statusnya dari klinik menjadi Klinik Spesialis dan Rumah Bersalin Medika Lestari. Pada tahun 2005 Rumah Sakit Medika Lestari menambah fasilitas dan meningkatkan statusnya menjadi Rumah Sakit Ibu dan Anak (RSIA), dan selanjutnya pada tahun 2008 Rumah Sakit Medika Lestari meningkatkan statusnya menjadi Rumah Sakit Umum, dan tahun 2012 Rumah Sakit Medika Lestari terus berkembang, dengan Motivasi yang sangat tinggi serta kebersamaan dan kekompakan seluruh karyawan RS Medika Lestari, kini RS Medika Lestari sampai pada proses pembangunan serta pengembangan dari segi pelayanan serta fasilitas. Tahun 2017 sampai sekarang RS Medika Lestari sudah melayani Rawat Inap, Rawat Jalan, dan layanan 24 Jam (IGD, Radiologi, Laboratorium, Farmasi) dan sudah terakreditasi.</p>
-				</div>
-				<div class="choose-grid wow fadeInLeft animated" data-wow-delay=".5s">
-					<h4>Tujuan Rs. Medika Lestari</h4>
-					<p>- Maintance -</p>
 				</div>
             </div>
 			<div class="clearfix"></div>
