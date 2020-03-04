@@ -96,7 +96,7 @@
             <div class="col-md-4 services_left wow bounceInDown" data-wow-duration="1.5s" data-wow-delay="0s">
                 <h3>Pelayanan Kami</h3>
                 <p class="ser-para" >Menciptakan pelayan yang baik dan nyaman ,serta memberikan linkungan yang nyaman bagi pasien</p>
-                <a href="about.php" class="hvr-outline-out button2">See More About Us</a>
+                <a href="spesialis.php" class="hvr-outline-out button2">See More</a>
                 <script>
                     // You can also use "$(window).load(function() {"
                     $(function () {
@@ -226,7 +226,7 @@
             <div class="col-md-3 capabil_grid1 wow fadeInDownBig animated animated text-center" data-wow-delay="0.4s">
                 <div class="capil_text">
                     <div class='numscroller numscroller-big-bottom' data-slno='1' data-min='0' data-max='-' data-delay='.5' data-increment="100">0</div>
-                    <p>Happy Pasien</p>	
+                    <p>Dokter</p>	
                 </div>
             </div>
             <div class="col-md-3 capabil_grid2 wow fadeInUpBig animated animated text-center" data-wow-delay="0.4s">
@@ -238,13 +238,13 @@
             <div class="col-md-3 capabil_grid3 wow fadeInDownBig animated animated text-center" data-wow-delay="0.4s">
                 <div class="capil_text">
                     <div class='numscroller numscroller-big-bottom' data-slno='1' data-min='0' data-max='-' data-delay='.5' data-increment="100">0</div>				
-                    <p>Foundation</p>
+                    <p>Kamar</p>
                 </div>
             </div>
             <div class="col-md-3 capabil_grid4 wow fadeInUpBig animated animated text-center" data-wow-delay="0.4s">
                 <div class="capil_text">
                     <div class='numscroller numscroller-big-bottom' data-slno='1' data-min='0' data-max='-' data-delay='.5' data-increment="1">0</div>
-                    <p>Patients</p>
+                    <p>Pasien</p>
                 </div>
             </div>
             <div class="clearfix"></div>

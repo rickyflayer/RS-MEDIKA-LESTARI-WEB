@@ -18,7 +18,7 @@
 				</div>
             </div>
 			<div class="clearfix"></div>
-		<p class="para_abt wow fadeInUp animated" data-wow-delay=".5s">Kesembuhan Anda Kebahagiaan Kami</p>
+		<p class="para_abt wow fadeInUp animated" data-wow-delay=".5s">~ Kesembuhan Anda Kebahagiaan Kami ~</p>
 	</div>
 </div>
 <!-- visi & misi-->
