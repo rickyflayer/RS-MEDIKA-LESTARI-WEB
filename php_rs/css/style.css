@@ -176,8 +176,9 @@ ul.con-icons{
 }
 /*-- //contact --*/
 .header{
-	background:#00a4e4;
+	background:#29e485;
 }
+
 .header_left {
     float: left;
     width: 50%;
@@ -245,6 +246,9 @@ ul.con-icons{
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
     border: none;
 }
+.navbar-left{
+  float: left;
+}
 .navbar-default {
     background: none;
     border: none;
@@ -267,6 +271,7 @@ ul.con-icons{
 .nav > li > a {
     padding: 10px 17px !important;
 }
+
 .logo h1 a span{
 	color:#000;
 }
@@ -1808,7 +1813,7 @@ p.para_abt {
 }
 .testimonials-grid2 {
 	padding:1em;
-	background:#969696;
+	background:#ffffff;
 	position:relative;
 	margin: 2em 0 0;
 }
