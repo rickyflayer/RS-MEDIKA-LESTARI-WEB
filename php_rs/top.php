@@ -75,8 +75,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                 <div class="header_left" data-wow-duration="2s" data-wow-delay="0.5s">
                     <ul>
                         <div class="logo grid">
-                        <div class="grid__item color-3">
-                            <h1><a class="link link--nukun" href="index.html"><i></i>RS. MEDI<span>K</span>A LESTA<span>R</span>I</a></h1>
+                        <div class="grid__item">
+                            <h1><a class="link link--nukun" href="index.html"><i></i>RS. MEDIKA LESTARI</a></h1>
                         </div>
             </div>
             </ul>
@@ -158,7 +158,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 
                     <!-- Collect the nav links, forms, and other content for toggling -->
                     <div class="collapse navbar-collapse nav-wil" id="bs-example-navbar-collapse-1">
-                        <nav class="menu menu--horatio">
+                        <nav class="menu menu--horatio navbar-left">
                             <ul class="nav navbar-nav menu__list">
                                 <?php 
                                 
@@ -179,12 +179,16 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 								      <li class="menu__item"><a href="index.php" class="menu__link">Home</a></li>
                                       <li class="menu__item"><a href="spesialis.php" class="menu__link">Specialis</a></li> 
                                       <li class="menu__item"><a href="fasilitas.php" class="menu__link">Fasilitas & Layanan</a></li> 
-                                      <li class="menu__item"><a href="jadwal.html" class="menu__link">Jadwal Praktik</a></li> 
-                                      <li class="menu__item"><a href="asuransi.php" class="menu__link">Asuransi</a></li>
-                                      <li class="menu__item"><a href="about.php" class="menu__link">Profil</a></li>
-                                      <li class="menu__item"><a href="indikator.php" class="menu__link">Indikator Mutu</a></li>
-                                      <li class="menu__item"><a href="ppi.php" class="menu__link">PPI</a></li>
-                                      <li class="menu__item"><a href="karir.php" class="menu__link">Karir</a></li>
+                                      <li class="menu__item"><a href="jadwal.html" class="menu__link">Jadwal Praktik</a></li>
+                                      <li class="dropdown">
+                                      <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tentang Kami<a>
+                                      <ul class="menu__list dropdown-menu">
+                                      <li><a class="menu__item" href="asuransi.php" >Asuransi</a></li>
+                                      <li><a href="about.php" class="menu__item">Profil</a></li>
+                                      <li><a href="indikator.php" class="menu__item">Indikator Mutu</a></li>
+                                      <li><a href="ppi.php" class="menu__item">PPI</a></li>
+                                      <li><a href="karir.php" class="menu__item">Karir</a></li>
+                                      </ul>
 								<?php }?>
                             </ul>
                         </nav>
@@ -192,3 +196,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                 </nav>
             </div>
         </div>
+    </a>
+</body>
+</html>
